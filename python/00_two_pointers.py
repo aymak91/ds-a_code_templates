@@ -5,7 +5,7 @@ def fn(arr):
 
     while left < right:
         # do some logic here with left and right
-        if CONDITION:
+        if "CONDITION":
             left += 1
         else:
             right -= 1
@@ -20,7 +20,7 @@ def fn2(arr1, arr2):
 
     while i < len(arr1) and j < len(arr2):
         # do some logic here
-        if CONDITION:
+        if "CONDITION":
             i += 1
         else:
             j += 1
