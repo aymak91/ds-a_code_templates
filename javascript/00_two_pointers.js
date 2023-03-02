@@ -16,7 +16,7 @@ let fn = arr => {
 
 // Two pointers: two inputs, exhaust both
 
-let fn = (arr1, arr2) => {
+let fn2 = (arr1, arr2) => {
     let i = 0, j = 0, ans = 0;
     
     while (i < arr1.length && j < arr2.length) {

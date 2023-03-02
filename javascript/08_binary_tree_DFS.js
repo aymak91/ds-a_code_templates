@@ -15,7 +15,7 @@ let dfs = root => {
 }
 
 // iterative
-let dfs = root => {
+let dfs2 = root => {
     let stack = [root];
     let ans = 0;
 
